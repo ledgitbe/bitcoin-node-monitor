@@ -8,7 +8,7 @@
   },
   "files": [
     "client/build",
-    "server",
+    "server/index.js",
     "bin",
     "config.js"
   ],
