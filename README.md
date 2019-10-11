@@ -2,6 +2,8 @@
 
 > Bitcoin node information GUI
 
+[![npm](https://img.shields.io/npm/v/bitcoin-node-monitor)](https://www.npmjs.com/package/bitcoin-node-monitor)
+
 ![Screenshot](screenshot.png)
 
 ## NPM
