@@ -38,7 +38,7 @@
   "author": "Ledgit",
   "license": "MIT",
   "devDependencies": {
-    "concurrently": "^5.0.0"
+    "concurrently": "^5.2.0"
   },
   "dependencies": {
     "ospath": "^1.2.2"
